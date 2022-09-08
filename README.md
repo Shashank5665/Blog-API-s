@@ -5,7 +5,7 @@ STEP2 : To start the application, Run : ```node server.js```
 
 STEP3 : The end points to the routes for testing in postman is given below
 
-CREATE USER : http://localhost:9000/admin/createUser
+CREATE USER : http://localhost:9000/admin/createUser \n
 GET ALL THE USERS : http://localhost:9000/admin/getUsers
 UPDATE USER : http://localhost:9000/admin/updateUser
 DELETE USER : http://localhost:9000/admin/deleteUser
